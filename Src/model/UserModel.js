@@ -1,8 +1,4 @@
 import mongoose, { Schema } from "mongoose";
-import { type } from "os";
-
-
-
 const UserSchema = new mongoose.Schema({
      name:{
         type:String,

@@ -16,7 +16,7 @@ A backend project that implements a **subscription-based model** using **Node.js
 ---
 
 ## 📁 Project Structure
-
+```
 subscription-api/
 ├── controllers/
 │ └── authController.js
@@ -34,7 +34,7 @@ subscription-api/
 ├── .env
 ├── server.js
 └── package.json
-
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -49,14 +49,13 @@ subscription-api/
 ---
 
 ## 🔧 Installation
-
-1. **Clone the repo**
+ **Clone the repo**
    ```bash
    git clone https://github.com/your-username/subscription-api.git
    cd subscription-api
-
 ```
 
+---
 ## 📫 Connect With Me
  ## 👤 Developer : SHUBHAM SHARMA
  
